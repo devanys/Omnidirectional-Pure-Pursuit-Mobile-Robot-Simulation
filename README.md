@@ -48,9 +48,3 @@ For a non-rotating (pure translation) omnidirectional robot (only \( v_x \) and 
 In your simulator, compute the direction to the target (lookahead point):
 
 ![image](https://github.com/user-attachments/assets/e00d0d33-9d6c-4fe8-9d31-61cfa1e8c76b)
-
-
-
-## Contributors
-- (Main Idea) Achmad Yusuf
-- Devan yusfa sukmadya
